@@ -111,19 +111,6 @@ header image {
   color: hsl(0, 36%, 70%);
   opacity: 0.8;
 }
-.container form .error-icon {
-  display: none;
-  position: absolute;
-  top: 24%;
-  right: 85px;
-}
-.container form .error-text {
-  position: absolute;
-  left: 30px;
-  top: 40px;
-  font-size: 1rem;
-  display: none;
-}
 
 @media only screen and (min-width: 768px) {
   header {
